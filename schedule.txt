@@ -1,4 +1,10 @@
 Monday: Git Basics
 Tuesday: Branching Practice
+<<<<<<< HEAD
 Wednesday: github collaboration session
 Thursday: Github Push
+=======
+Wednesday: Merge Conflict practice session.
+Thursday: Github Push
+Saturday: saturday
+>>>>>>> conflict-update
